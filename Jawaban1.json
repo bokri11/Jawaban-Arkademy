@@ -1,0 +1,20 @@
+{
+    "name": "Oki Andre Hanafi",
+    "age": 23,
+    "addres": "Jl.Bunga Wijaya Kusuma, No.108, Kec.Medan Selayang",
+    "hobies": ["Gaming", "Football", "Coding"],
+    "is_married": false,
+    "list_school": [
+        "Name School : SMK-TI Panca Budi Medan",
+        "Year_In    : 2012",
+        "Year_Out   : 2015",
+        "Major      : SMK"
+    ],
+    "skill": [
+        "Thecnical Support   : Expert",
+        "Network Adminstrasi : Expert",
+        "Coding              : Beginer"
+    ],
+    "interest_in_coding": false
+
+}
